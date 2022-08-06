@@ -1,0 +1,11 @@
+[
+    {
+        "Synapse": {
+            "updated": true,
+            "exploit_version": "v2.18.0d",
+            "roblox_version": "version-9045f70ea522489c",
+            "last_update": "2022-08-06",
+            "last_update_unix": 1659793801
+        }
+    }
+]
